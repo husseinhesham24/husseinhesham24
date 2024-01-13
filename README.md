@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussein Elgammal</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer from Egypt</h3>
 <img align="right" alt="img" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@husseinelgammal)
