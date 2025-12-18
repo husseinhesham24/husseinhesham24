@@ -55,7 +55,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=husseinhesham24&show_icons=true&locale=en" alt="Hussein" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=husseinhesham24&hide_border=true&short_numbers=true)](https://github.com/husseinhesham24)
 
 
 
