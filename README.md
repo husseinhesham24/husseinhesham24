@@ -50,10 +50,16 @@
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
 ![Docker](https://img.shields.io/badge/-Docker-gray?style=flat-square&logo=docker)
 
-
+<img
+    src="https://komarev.com/ghpvc/?username=husseinhesham24&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+    style="vertical-align: middle;"
+  />
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=husseinhesham24&show_icons=true&locale=en&layout=compact" alt="Hussein" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=husseinhesham24&show_icons=true&locale=en" alt="Hussein" /></p>
+
 
 
 
