@@ -55,12 +55,4 @@
     alt="Profile views"
     style="vertical-align: middle;"
   />
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=husseinhesham24&show_icons=true&locale=en&layout=compact" alt="Hussein" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=husseinhesham24&show_icons=true&locale=en" alt="Hussein" /></p>
-
-
-
-
 
